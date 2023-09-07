@@ -1,0 +1,81 @@
+*,
+html,
+body {
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka,
+        "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+:root {
+    --primary-background: #303030;
+    --primary-text: #f8f9fa;
+    --navbar-background: #1f1f1f;
+    --jumbotron-background: #c7bbb2;
+    --jumbotron-text: #212529;
+}
+
+.navbar {
+    background-color: var(--navbar-background);
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: var(--jumbotron-background);
+    color: var(--jumbotron-text);
+}
+
+#about {
+    background-color: var(--primary-background);
+    color: var(--primary-text);
+}
+
+#projects {
+    background-color: var(--jumbotron-background);
+    color: var(--jumbotron-text);
+}
+
+#contact {
+    background-color: var(--jumbotron-background);
+    color: var(--jumbotron-text);
+    font-weight: 600;
+}
+
+#footer {
+    background-color: var(--navbar-background);
+    color: var(--primary-text);
+}
+
+#footer a {
+    text-decoration: none;
+    color: var(--primary-text);
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.card {
+    border-color: #382e2e;
+}
+
+.btn-kirim {
+    background-color: #8b6758;
+    color: var(--primary-text);
+}
+
+.btn-loading {
+    background-color: #8b6758;
+    color: var(--primary-text);
+}
+
+.gallery-img {
+    width: 100%;
+}
+
+#gallery {
+    background-color: var(--primary-background);
+    color: var(--primary-text);
+}
+
+#gallery .row > * {
+    padding: 0;
+}
