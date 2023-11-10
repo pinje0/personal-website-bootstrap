@@ -1,8 +1,8 @@
 *,
 html,
 body {
-    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka,
-        "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka,
+        'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
 }
 
 :root {
@@ -18,7 +18,7 @@ body {
 }
 
 .jumbotron {
-    padding-top: 6rem;
+    padding-top: 4rem;
     background-color: var(--jumbotron-background);
     color: var(--jumbotron-text);
 }
@@ -78,4 +78,37 @@ section {
 
 #gallery .row > * {
     padding: 0;
+}
+
+.project-main {
+    background-color: rgb(72, 66, 56);
+    color: #c6ccc9;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-size: 2rem;
+}
+
+.card-text {
+    font-weight: 500;
+}
+
+.alert {
+    background-color: rgb(72, 66, 56);
+    /* color: #aaa; */
+    color: #c6ccc9;
+    border-radius: 8px;
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+}
+
+.alert-index {
+    background-color: rgb(72, 66, 56);
+    /* color: #aaa; */
+    color: #c6ccc9;
+    border-radius: 8px;
+    width: 45%;
+    padding: 0.9rem;
+    margin: 0 auto;
+    margin-bottom: 1rem;
 }
