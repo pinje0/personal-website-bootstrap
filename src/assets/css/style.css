@@ -112,3 +112,7 @@ section {
     margin: 0 auto;
     margin-bottom: 1rem;
 }
+
+.display-4 {
+    margin-top: 5px;
+}
