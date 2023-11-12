@@ -1,4 +1,7 @@
 # Note
+Link to the website : https://pinje0.github.io <br>
+or u can just click link on the top-right side
+
 
 ## Bootstrap (CSS Framework)
 
