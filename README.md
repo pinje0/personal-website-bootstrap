@@ -13,7 +13,7 @@ Website using Bootstrap version:
 -   **_Bootstrap 4.6_**:
     -   Jumbotron / Hero Section
 
-## Reference & Documentation
+## Reference
 
 **Bootstrap 5**
 
