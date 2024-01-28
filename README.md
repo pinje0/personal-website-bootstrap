@@ -1,5 +1,5 @@
 # Note
-Link to the website : https://pinje0.github.io <br>
+Link to the website : https://pinje-bs.vercel.app <br>
 or u can just click link on the top-right side
 
 
